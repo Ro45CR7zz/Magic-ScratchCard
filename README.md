@@ -10,7 +10,7 @@ A fun, interactive web-based scratch card experience! Move your mouse or finger 
 
 🎮 Tilt Interaction – 3D-like card rotation based on cursor position for extra depth.
 
-🚀 How to Use
+🚀 How to Uze
 Clone or Download the Repository:
 git clone https://github.com/your-username/magic-scratch-card.git
 cd magic-scratch-card
