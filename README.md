@@ -15,5 +15,5 @@ Clone or Download the Repository:
 git clone https://github.com/your-username/magic-scratch-card.git
 cd magic-scratch-card
 
-Open card.html in your browser:
+Open the card.html in your browser:
 You can double-click or use a local server like Live Server in VS Code.
