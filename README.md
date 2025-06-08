@@ -1,5 +1,5 @@
 🎉 Magic Scratch Card
-A fun, interactive web-based scratch card experience! Move your mouse or finger to "scratch" and reveal a hidden emoji surprise beneath a vibrant gradient. Built with HTML, CSS, and JavaScript, this mini-app also includes a glowing aesthetic and tilt animation for a visually rich experience.
+A fun, interactive web-based scratch card experience! Move your mouse or finger to "scratch" and reveal a hidden emoji surprizze beneath a vibrant gradient. Built with HTML, CSS, and JavaScript, this mini-app also includes a glowing aesthetic and tilt animation for a visually rich experience.
 
 🧩 Features
 ✨ Scratchable Surface – Use your mouse or touch to reveal a hidden emoji.
