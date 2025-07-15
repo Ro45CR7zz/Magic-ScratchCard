@@ -6,7 +6,7 @@ A fun, interactive web-based scratch card experience! Move your mouse or finger 
 
 🌈 Animated Gradient Effects – Glowing borders and animated text bring life to the UI.....
 
-🎁 Surprise Button – Get a new emoji anytime with the "Surprise Me" button.
+🎁 Surprise Button – Get a new emoji anytime with the "Surprise Me" buttonn..
 
 🎮 Tilt Interaction – 3D-like cardd rotation based on cursor position for extra depth.
 
